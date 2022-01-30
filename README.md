@@ -1,6 +1,10 @@
 # 👀jogo-de-naves
 
-## 🎮️ Sobre
+## 🎮️ Jogo
+
+[Live gameplay](https://edumt.github.io/jogo-de-naves/)
+
+## ❓ Sobre
 
 O projeto é jogo de naves utilizando HTML, CSS e Javascript, que foi realizado dentro do bootcamp Javascript game Developer com o intuito de colocar em prática todo o conteúdo estudado durante o curso da DIO.
 
